@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SettingsExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_notes">Enter notes</string>
+    <string name="notesTextView">Notes</string>
+    <string name="buttonSettings">Settings</string>
+</resources>

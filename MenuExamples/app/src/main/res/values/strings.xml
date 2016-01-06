@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuExamples</string>
+    <string name="action_settings">Settings</string>
+    <string name="options_exit_text">exit</string>
+</resources>
