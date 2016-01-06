@@ -1,0 +1,1 @@
+This repository contains the code I write as I follow along with Derek Banas' youtube series How To Make Android Apps
